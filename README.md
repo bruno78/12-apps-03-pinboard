@@ -19,6 +19,7 @@ Also in this project, I've learned how to use masonry-rails which is a quite hel
 Creating  an app is not difficult. It requitres a series of actions that once you get it, everything becomes clearer.
 
 To add a feature:
+
 1. Create a git branch named that feature
 2. Add the gem or generate any models needed for the feature
 3. Read the documentation of the gem and/or update the database
